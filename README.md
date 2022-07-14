@@ -2,7 +2,7 @@
 tipos de variáveis
 
 
-Não existe a ideia de anotação camelo para constante final, deve separa por anderlaine e todas as letras em maiúsculas.
+Não existe a ideia de notação camelo para constante final, deve separa por anderlaine e todas as letras em maiúsculas.
 
 Tipos de dados
 
